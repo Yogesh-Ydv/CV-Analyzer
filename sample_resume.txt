@@ -1,0 +1,28 @@
+Priya Sharma
+Email: priya.sharma@email.com | Phone: +91-9876543210
+LinkedIn: linkedin.com/in/priyasharma | GitHub: github.com/priyasharma
+
+SUMMARY
+Data-driven analyst with 4 years of experience turning raw data into business
+decisions. Comfortable across the full analytics stack from SQL to dashboards.
+
+EXPERIENCE
+Data Analyst, Bright Retail Pvt Ltd, 2022 - present
+- Built and maintained 15+ Power BI dashboards tracking sales KPIs across 200 stores
+- Automated weekly reporting pipeline using Python and pandas, cutting manual effort by 70%
+- Partnered with stakeholders to gather requirements for a new inventory forecasting model
+- Wrote complex SQL queries against a 50M-row data warehouse to support ad-hoc analysis
+
+Junior Analyst, DataWorks Solutions, 2020 - 2022
+- Cleaned and validated customer datasets using Excel and Python
+- Created weekly summary reports for senior management
+- Supported A/B testing analysis for the marketing team
+
+EDUCATION
+B.Sc. Statistics, Delhi University, 2017 - 2020
+
+SKILLS
+SQL, Excel, Power BI, Python, Pandas, Data Analysis, Stakeholder Management
+
+CERTIFICATIONS
+Google Data Analytics Professional Certificate
